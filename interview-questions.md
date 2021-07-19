@@ -59,6 +59,6 @@ Destroy sounds so ominous especially when in relation to coding, but I am assumi
 
 3. React state: It is an object that is managed within a component. The object will determine how the component renders and behaves.
 
-4. Component invocation/call:
+4. Component invocation/call: Components can get called by other components. Components can be nested in another component and contain actions that changes the parent component state thus invoking a method in the parent component. Whew that was a mouthful. 
 
-5. DOM Events: It is when a user clicks on an HTML element and executes code within JavaScript. Some examples are a mouse click or when an image loads on a page. 
+5. DOM Events: It is when a user clicks on an HTML element and executes code within JavaScript. Some examples are a mouse click or when an image loads on a page.
